@@ -1,0 +1,7 @@
+.mainBorder {
+    display: inline-block;
+    border: 2px solid black;
+    padding: 4rem;
+    background-color: white;
+    border-radius: 2rem;
+}
